@@ -1,2 +1,4 @@
 # minecraft-textures
-All minecraft textures (Current version: 1.19)
+All minecraft textures
+
+Current version: 1.19
